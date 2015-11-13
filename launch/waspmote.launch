@@ -1,0 +1,3 @@
+<launch>
+    <node name="usma_waspmote" pkg="usma_waspmote" type="waspmote.py" output="screen" />
+</launch>
